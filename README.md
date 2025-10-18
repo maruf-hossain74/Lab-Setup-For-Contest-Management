@@ -1,18 +1,10 @@
-# Contest Environment Manager
+# Lab Setup For Contest Management
 
 A robust, modular system for setting up a PC for onsite competitive programming contests, with intuitive configuration via editable files in the `config/` folder.
 
 ---
 
-## 🚀 Quick Start
-
-
-```sh
-git clone <github.com/shazidmashrafi/contest-manager>
-cd contest-manager
-# Install:
-sudo bash install.sh
-```
+## 🚀 Usage Guide
 
 See [Usage Guide](USAGE.md) for all commands and details.
 
@@ -34,11 +26,3 @@ See [Usage Guide](USAGE.md) for all commands and details.
 - Python 3.6+
 - Root privileges for install/restriction
 
----
-
-## 🏆 Use Cases
-- Programming contests (ICPC, IUPC, NCPC & onsite programming contests)
-
----
-
-**Built with ❤️ for secure, fair contests.**
