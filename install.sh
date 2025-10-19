@@ -1,3 +1,7 @@
+# update ubuntu and install python3 for ubuntu 22.04
+sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt install -y python3-pip
+
 #!/bin/bash
 # 🚀 Contest Environment Manager Installer (Ubuntu 22.04+ compatible)
 set -euo pipefail
