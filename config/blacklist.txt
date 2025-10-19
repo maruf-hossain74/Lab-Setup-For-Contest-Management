@@ -10,17 +10,13 @@ www.google.com
 youtube.com
 bing.com
 duckduckgo.com
-yahoo.com
 yandex.com
 baidu.com
 ask.com
-aol.com
-ecosia.org
 search.brave.com
 startpage.com
 searx.org
 archive.org
-waybackmachine.org
 
 # --- AI & Chatbots ---
 openai.com
@@ -47,7 +43,6 @@ chatdoc.com
 chatpdf.com
 phind.com
 huggingface.co
-leonardo.ai
 
 # --- Code Hosting & Collaboration ---
 github.com
@@ -61,7 +56,6 @@ codesandbox.io
 codepen.io
 jsfiddle.net
 pastebin.com
-controlc.com
 ideone.com
 rentry.co
 hastebin.com
@@ -75,16 +69,12 @@ gist.github.com
 tryit.w3schools.com
 colab.research.google.com
 notebook.azure.com
-kaggle.com
 
 # --- Q&A / Learning / Discussion ---
 stackoverflow.com
 stackexchange.com
 superuser.com
 serverfault.com
-askubuntu.com
-math.stackexchange.com
-unix.stackexchange.com
 cs.stackexchange.com
 stackoverflow.blog
 quora.com
@@ -98,39 +88,20 @@ w3schools.com
 javatpoint.com
 cp-algorithms.com
 usaco.org
-khanacademy.org
 brilliant.org
 byjus.com
 coursera.org
 udemy.com
 edx.org
-udacity.com
-freecodecamp.org
-realpython.com
-scaler.com
-interviewbit.com
-careerkarma.com
-simplilearn.com
-educative.io
 geekforgeeks.org
-studytonight.com
-cplusplus.com
 python.org
 java.com
-dotnet.microsoft.com
-learn.microsoft.com
-developer.mozilla.org
-developer.android.com
 
 # --- Social Media & Chat ---
 facebook.com
 m.facebook.com
-twitter.com
-x.com
 instagram.com
 linkedin.com
-tiktok.com
-snapchat.com
 telegram.org
 web.telegram.org
 telemgram.com
@@ -139,32 +110,15 @@ discord.gg
 messenger.com
 whatsapp.com
 web.whatsapp.com
-signal.org
-threads.net
-pinterest.com
-tumblr.com
-reddit.com
-quora.com
+
 
 # --- File Sharing / Cloud Storage ---
 dropbox.com
 drive.google.com
 onedrive.com
-mega.nz
-mediafire.com
-zippyshare.com
-wetransfer.com
-sendspace.com
 4shared.com
 rapidgator.net
 file.io
-anonfiles.com
-upload.ee
-transfer.sh
-filebin.net
-gofile.io
-pixeldrain.com
-bayfiles.com
 mixdrop.co
 terabox.com
 
@@ -173,58 +127,26 @@ chegg.com
 coursehero.com
 brainly.com
 studocu.com
-scribd.com
-quizlet.com
-slader.com
-numerade.com
-bartleby.com
-oneclass.com
-studypool.com
-essaytyper.com
 study.com
 studymode.com
 paperhelp.org
 toppr.com
-tutorbin.com
-assignmenthelp.com
-customwritings.com
 studybay.com
 answers.com
-sparknotes.com
-gradebuddy.com
+
 
 # --- Proxy / VPN / Remote Access ---
 vpnbook.com
 protonvpn.com
 nordvpn.com
 expressvpn.com
-surfshark.com
-hotspotshield.com
 windscribe.com
 tunnelbear.com
 hide.me
 hidemyass.com
 psiphon3.com
-ultravpn.com
-getoutline.org
-openvpn.net
-anydesk.com
-teamviewer.com
 chrome.google.com/webstore
 remotedesktop.google.com
 
-# --- Misc / Tools / Potential Cheats ---
-pastebin.pl
-repl.it
-compiler.run
-tio.run
-onlinegdb.com
-jdoodle.com
-mycompiler.io
-paiza.io
-dotnetfiddle.net
-cpp.sh
-tutorialsdojo.com
-leetcode.cn
-gdbonline.com
+# ---
 programiz.pro
