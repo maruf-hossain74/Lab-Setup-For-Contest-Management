@@ -71,6 +71,8 @@ colab.research.google.com
 notebook.azure.com
 
 # --- Q&A / Learning / Discussion ---
+addons.mozilla.org
+wikipedia.org
 stackoverflow.com
 stackexchange.com
 superuser.com
