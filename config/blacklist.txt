@@ -71,7 +71,6 @@ colab.research.google.com
 notebook.azure.com
 
 # --- Q&A / Learning / Discussion ---
-addons.mozilla.org
 wikipedia.org
 stackoverflow.com
 stackexchange.com
@@ -150,5 +149,10 @@ psiphon3.com
 chrome.google.com/webstore
 remotedesktop.google.com
 
-# ---
+# --- extensions
+addons.mozilla.org
+update.code.visualstudio.com
+*.gallery.vsassets.io
+*.vsassets.io
+marketplace.visualstudio.com
 programiz.pro
