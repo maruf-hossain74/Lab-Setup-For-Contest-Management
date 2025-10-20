@@ -42,7 +42,6 @@ def main():
     print("✅ Previous restrictions removed.\n")
 
     print("\n🌐 STEP 2: Restrict Internet Access\n" + ("="*40))
-    print("Working on it, please wait. It will take few minutes.")
     restrict_internet(args.user, BLACKLIST_TXT, verbose=args.verbose)
     print("✅ Internet access restricted.\n")
 
